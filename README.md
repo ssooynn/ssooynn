@@ -1,5 +1,4 @@
-### 👀 Hi there!
-#### 기록 및 회고
+### Hi there!👀 
 💬 https://ssooyn.tistory.com/
 
 <!--
