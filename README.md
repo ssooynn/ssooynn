@@ -1,5 +1,5 @@
 ### 👀 Hi there!
-에러 및 회고 (https://ssooyn.tistory.com/)
+💬 https://ssooyn.tistory.com/
 
 <!--
 **ssooynn/ssooynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
